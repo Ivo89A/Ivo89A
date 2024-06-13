@@ -3,7 +3,8 @@
 🧉Trato de tener mas conocimientos <br>
 🏗 Trabajando en mis propios proyectos<br>
 
-❗Tengo 21 años y estoy estudiando el segundo año de la tecnicatura de Desarrollo de Software, vivo en San Juan Argentina
+❗Tengo 21 años y estoy estudiando el segundo año de la tecnicatura de Desarrollo de Software. <br>
+❗Vivo en San Juan Argentina.
 
 ## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivo-alaniz-2a766723a/)<br>
