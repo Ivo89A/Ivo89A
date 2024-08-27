@@ -16,6 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![SQL](https://img.shields.io/badge/sql-%230074D1.svg?style=for-the-badge&logo=sql&logoColor=white)  
-##⚙️ Herramientas:
+## ⚙️ Herramientas:
 ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![Divi](https://img.shields.io/badge/divi-%236F02B5.svg?style=for-the-badge&logo=divi&logoColor=white)
