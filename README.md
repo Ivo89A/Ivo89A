@@ -3,7 +3,7 @@
 🧉 Siempre en búsqueda de nuevos conocimientos.  
 🏗 Trabajando en mis propios proyectos.
 
-❗Tengo 21 años y estoy cursando el segundo año de la tecnicatura en Desarrollo de Software.  
+❗Tengo 22 años y estoy cursando el segundo año de la tecnicatura en Desarrollo de Software.  
 ❗Resido en San Juan, Argentina.
 
 ## 🌐 Contacto:
