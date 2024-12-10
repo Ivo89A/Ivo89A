@@ -20,4 +20,4 @@
 ## ⚙️ Herramientas:
 ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![Divi](https://img.shields.io/badge/divi-%236F02B5.svg?style=for-the-badge&logo=divi&logoColor=white)
-![Make](https://img.shields.io/badge/Make-1C77C3?style=for-the-badge&logo=gnu&logoColor=F7DF1E)
+![Make](https://img.shields.io/badge/Make-2E85FF?style=for-the-badge&logo=Make&logoColor=white)
